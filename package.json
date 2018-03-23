@@ -1,0 +1,14 @@
+{
+  "name": "microexam",
+  "version": "1.0.0",
+  "description": "micro exam with docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sang5052003@naver.com",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
